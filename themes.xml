@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.DBSNetworkIPTV" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
